@@ -1,4 +1,8 @@
 # ninja log v5
-2	171	7220821990858339	build.ninja	f864770e0c5bb0ba
+2	171	7220824087610377	build.ninja	f864770e0c5bb0ba
 1	136	7220821993112838	CMakeFiles/C_Programming_Lab.dir/P1_Hello_World.c.obj	9a1985429ac334d5
 137	379	7220821995428045	C_Programming_Lab.exe	1a22f518dd6511bd
+1	92	7220825636989005	CMakeFiles/C_Programming_Lab.dir/P2_Enter_number_from_user.c.obj	95cc193d66a49f80
+93	216	7220825638170788	C_Programming_Lab.exe	13afa40a6ba7900
+5	92	7220825965446048	CMakeFiles/C_Programming_Lab.dir/P2_Enter_number_from_user.c.obj	95cc193d66a49f80
+93	210	7220825966578153	C_Programming_Lab.exe	13afa40a6ba7900

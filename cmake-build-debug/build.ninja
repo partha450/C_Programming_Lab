@@ -49,8 +49,8 @@ cmake_ninja_workdir = C$:/Users/USER/OneDrive/Documents/GitHub/C_Programming_Lab
 
 build cmake_object_order_depends_target_C_Programming_Lab: phony || CMakeFiles/C_Programming_Lab.dir
 
-build CMakeFiles/C_Programming_Lab.dir/P1_Hello_World.c.obj: C_COMPILER__C_Programming_Lab_unscanned_Debug C$:/Users/USER/OneDrive/Documents/GitHub/C_Programming_Lab/P1_Hello$ World.c || cmake_object_order_depends_target_C_Programming_Lab
-  DEP_FILE = CMakeFiles\C_Programming_Lab.dir\P1_Hello_World.c.obj.d
+build CMakeFiles/C_Programming_Lab.dir/P2_Enter_number_from_user.c.obj: C_COMPILER__C_Programming_Lab_unscanned_Debug C$:/Users/USER/OneDrive/Documents/GitHub/C_Programming_Lab/P2_Enter$ number$ from$ user.c || cmake_object_order_depends_target_C_Programming_Lab
+  DEP_FILE = CMakeFiles\C_Programming_Lab.dir\P2_Enter_number_from_user.c.obj.d
   FLAGS = -g -std=gnu2x -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\C_Programming_Lab.dir
   OBJECT_FILE_DIR = CMakeFiles\C_Programming_Lab.dir
@@ -63,7 +63,7 @@ build CMakeFiles/C_Programming_Lab.dir/P1_Hello_World.c.obj: C_COMPILER__C_Progr
 #############################################
 # Link the executable C_Programming_Lab.exe
 
-build C_Programming_Lab.exe: C_EXECUTABLE_LINKER__C_Programming_Lab_Debug CMakeFiles/C_Programming_Lab.dir/P1_Hello_World.c.obj
+build C_Programming_Lab.exe: C_EXECUTABLE_LINKER__C_Programming_Lab_Debug CMakeFiles/C_Programming_Lab.dir/P2_Enter_number_from_user.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\C_Programming_Lab.dir
